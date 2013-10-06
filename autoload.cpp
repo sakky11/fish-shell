@@ -1,6 +1,6 @@
 /** \file autoload.cpp
 
-The classes responsible for autoloading functions and completions.
+The classes responsible for autoloading functions 
 */
 
 #include "config.h"
